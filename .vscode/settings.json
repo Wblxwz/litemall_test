@@ -1,0 +1,10 @@
+{
+    "robotcode.robot.outputDir": "${workspaceFolder}/robotframework/results",
+    "robotcode.robot.pythonPath": [
+        "${workspaceFolder}/robotframework/lib"
+    ],
+    "robotcode.debug.outputMessages": true,
+    "robotcode.debug.outputTimestamps": true,
+    "editor.mouseWheelZoom": true,       // 编辑器缩放
+    "terminal.integrated.mouseWheelZoom": true  // 终端缩放
+}

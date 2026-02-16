@@ -1,4 +1,9 @@
 *** Variables ***
-${username}    user123
-${password}    user123
-${url}    http://localhost:6255/#/login/
+${default_username}    user123
+${default_password}    user123
+${super_admin_username}    admin123
+${super_admin_password}    admin123
+${login_url}    http://localhost:6255/#/login/
+${signup_url}    http://localhost:6255/#/login/registerGetCode
+${admin_url}    http://localhost:9527/
+${code}    123456

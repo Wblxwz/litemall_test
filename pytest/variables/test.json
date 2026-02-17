@@ -5,8 +5,7 @@
     "super_admin_password":"admin123",
     "wrong_username":"wrong_username",
     "wrong_password":"wrong_password",
-    "login_url":"http://localhost:6255/#/login/",
-    "signup_url":"http://localhost:6255/#/login/registerGetCode",
-    "admin_url":"http://localhost:9527/",
+    "url":"http://localhost:8080",
+    "login_api":"/wx/auth/login",
     "code":"123456"
 }

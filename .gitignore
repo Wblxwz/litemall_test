@@ -14,7 +14,7 @@ dist/
 downloads/
 eggs/
 .eggs/
-lib/
+#lib/
 lib64/
 parts/
 sdist/
@@ -209,5 +209,6 @@ __marimo__/
 interactive_console_output.xml
 playwright-log.txt
 robotframework/results/
-
+pytest/results/
+pytest/allure-report
 

@@ -6,5 +6,10 @@
     "robotcode.debug.outputMessages": true,
     "robotcode.debug.outputTimestamps": true,
     "editor.mouseWheelZoom": true,       // 编辑器缩放
-    "terminal.integrated.mouseWheelZoom": true  // 终端缩放
+    "terminal.integrated.mouseWheelZoom": true,
+    "python.testing.pytestArgs": [
+        "pytest"
+    ],
+    "python.testing.unittestEnabled": false,
+    "python.testing.pytestEnabled": true // 终端缩放
 }
